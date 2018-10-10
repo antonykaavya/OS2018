@@ -1,7 +1,7 @@
-ID,priority,owner,memory_required,mem 
-"program 1", 17, "Kaavya Antony", 10, 100
-"program 2", 2, "Pat Davis", 15, 90
-"program 3", 3, "Nate Brown", 20, 80
-15, 8, "Ousmane Dieng", 40, 60
-"program 4", "k", "Austin DiMartino", 30, 70
+ID,priority,owner,memory_required
+"program 1", 17, "Kaavya Antony", 10
+"program 2", 2, "Pat Davis", 15
+"program 3", 3, "Nate Brown", 20
+15, 8, "Ousmane Dieng", 40
+"program 4", "k", "Austin DiMartino", 30
 
